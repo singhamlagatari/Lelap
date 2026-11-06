@@ -2,7 +2,7 @@
 //
 // Single source file, SwiftUI MenuBarExtra, macOS 13+. Build: `bash build.sh`.
 // Reads settings with /usr/bin/pmset (no admin rights needed) and writes them
-// through the standard macOS administrator password dialog. Spec: PLAN.md.
+// through the standard macOS administrator password dialog. See README.md.
 
 import AppKit
 import ServiceManagement
